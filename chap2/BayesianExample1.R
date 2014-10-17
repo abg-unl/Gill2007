@@ -1,3 +1,9 @@
+#-----------------------#
+#
+# Authtor: Napo
+#
+#-----------------------#
+
 library(TeachingDemos)
 set.seed(123)
 mCows = rep(1, 100)
