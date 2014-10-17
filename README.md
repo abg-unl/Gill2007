@@ -1,5 +1,5 @@
 ## Bayesian Study Group 
-This repository contains materials such as  R codes and notes developed in the Bayesian Study Group. 
+This repository contains materials such as  R code and notes developed in the Bayesian Study Group. 
 
 * Textbook: Jeff Gill (2007) Bayesian Methods: A Social and Behavioral Sciences Approach. Second Edition [[Amazon](http://www.amazon.com/Bayesian-Methods-Behavioral-Sciences-Statistics/dp/1584885629)]
 * When: Fall 2014: Every Friday
