@@ -11,4 +11,5 @@ This repository contains materials such as  R codes and notes developed in the B
 2. September 26: Chapter 1. (Cashley)
 3. October 3: Chapter 2. (Napo)
 4. October 10: Chapter 2. (Napo)
+4. October 17: Chapters 2 and 3. (Napo & Sean)
 
